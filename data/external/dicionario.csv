@@ -1,0 +1,10 @@
+,Variável,Descrição,Tipo,Subtipo,descrição
+0,Pregnancies,Número de vezes que engrávidou,Quantitativa,Discreta,
+1,Glucose,Concentração de glicose duas horas após o teste oral,Quantitativa,Contínua,
+2,BloodPressure,Pressão sangueína,Quatitativa,Contínua,
+3,SkinThickness,Espessura da dobra cutânea do tríceps (mm),Quatitativa,Contínua,
+4,Insulin,Qunatidade de insulina após 2 hrs (muU/ml),Qualitativa,Ordinal,
+5,BMI,,Quantitativa,Contínua,Índice de massa corporal (Kg/m^2)
+6,DiabetesPedigreeFunction,,Quantitativa,Contínua,Calcula a probabilidade de diabetes dependendo da idade do sujeito e de seu histórico familiar de diabetes
+7,Age,Idade,Quantitativa,Discreta,
+8,Outcome,,Quanlitativa,Nominal,"1 se a pessoa teve diabetes, 0 se não"
